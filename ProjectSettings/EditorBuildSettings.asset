@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuScene.unity
     guid: 475fd75d9f3feb64c9b289c38904429d
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/CameraMovement.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
     path: Assets/Scenes/Configuracoes.unity
